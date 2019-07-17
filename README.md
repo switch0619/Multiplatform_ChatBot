@@ -4,8 +4,8 @@
 2019-07-17 프로젝트 진행중
 
 ## Contributor
-Project Leader: 차의서 [Euiseo Cha]
-Email: EuiseoCha@krcesdev.com
+>Project Leader: 차의서 [Euiseo Cha]
+>Email: EuiseoCha@krcesdev.com
 
 ## License : MIT License 
 >[License : 라이센스](https://raw.githubusercontent.com/EuiseoCha/Multiplatform_ChatBot/master/LICENSE "License : 라이센스")
