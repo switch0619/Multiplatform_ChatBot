@@ -2,9 +2,9 @@
 
 NAME = 'devBot'
 
-telegram_bot_token = '*******************************'
+telegram_bot_token = ''
 
-Discord_bot_token = '*******************************'
+Discord_bot_token = ''
 
 set_command = "!"
 
